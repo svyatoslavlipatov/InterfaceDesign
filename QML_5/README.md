@@ -7,5 +7,5 @@
 #### Исходное состояние
 <img width="272" alt="исходное состояние" src="https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/1c836841-24b9-44cd-a526-6818ce7f715b">
 
-#### При нажатии!
+#### При нажатии
 <img width="282" alt="при нажатии" src="https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/48e96647-b3cd-4643-83d2-c87bd59974c0">
