@@ -1,10 +1,7 @@
-# QML_1. Скрины
+# QML_3. Скрины
 
-### Задание 1
-#### 1.1
-![1 1](https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/9a178ef6-5ca9-4959-b60e-1e089ef41cc4)
-#### 1.2
-![1 2](https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/0cde8ff7-6d58-4b88-aa7f-af6458b7d649)
+#### Исходное состояние
+<img width="271" alt="исходное" src="https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/b627ba29-76c3-4218-9efd-b3de01540620">
 
-### Задание 2
-![2](https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/ce82c9ad-d3b3-4465-a3e2-6f6f96266874)
+#### При нажатии (на скрине пример при нажатии на "Item 1"
+<img width="273" alt="при нажатии Item 1" src="https://github.com/svyatoslavlipatov/InterfaceDesign/assets/92099105/29d47513-fa57-4c96-8f43-d8fabdaedc95">
